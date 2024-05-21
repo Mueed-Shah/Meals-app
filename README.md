@@ -1,5 +1,7 @@
 # meal
 
+This app is used to show all the available meals in the menu along their ingredients and time need to prepare it.
+
 A new Flutter project.
 
 ## Getting Started
